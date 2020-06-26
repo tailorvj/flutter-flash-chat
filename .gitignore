@@ -1,3 +1,14 @@
+# User
+android/app/google-services.json
+android/key.properties
+ios/GoogleService-Info.plist
+ios/Runner/GoogleService-Info.plist
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+ios/Flutter/.last_build_id
+.flutter-plugins-dependencies
+ios/Runner.xcodeproj/project.pbxproj
+
 # Miscellaneous
 *.class
 *.log

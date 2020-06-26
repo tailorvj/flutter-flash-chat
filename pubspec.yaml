@@ -1,16 +1,22 @@
 name: flash_chat
-description: A new Flutter application.
+description: An educational Firebase chat app
 
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0<3.0.0"
+  sdk: ">=2.3.0<3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  animated_text_kit: ^2.2.0
+  cloud_firestore: ^0.13.6
+  firebase_auth: ^0.16.1
+  firebase_core: ^0.4.5
+  modal_progress_hud: ^0.1.3
+  font_awesome_flutter: ^8.8.1
 
 dev_dependencies:
   flutter_test:
